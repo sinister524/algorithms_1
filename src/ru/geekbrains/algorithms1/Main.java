@@ -13,7 +13,6 @@ public class Main {
                 int average;
                 average = k / numbers.length;
                 System.out.println("Среднее арифмитическое: " + average);
-
-
+                
     }
 }
